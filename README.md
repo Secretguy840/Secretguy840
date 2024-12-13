@@ -1,5 +1,5 @@
 <h1>👋 - Hi visitor</h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Hello+Shivansh +here;Everything+is+fine;Thanks+for+being+here.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Hello+Shivansh+here;Everything+is+fine;Thanks+for+being+here.">
 
 ## 💫 About Me:
 
@@ -7,7 +7,7 @@
 - 👀  I like to write computer `code`.<br>
 - 🌱 I’m currently learning python<br>
 - 💞️ I’m looking to collaborate on github<br>
-- ⚡ Fun fact: i dont know c++<br>
+- ⚡ Fun fact: Their is no fun in it c++<br>
 
 
 <!--STARTS_HERE_QUOTE_README-->
@@ -29,9 +29,9 @@
 <h1 align="center">Work in progress</h1>
 <p align="center">Other features are in progress, feel free to follow me to discover them.</p>
 <p align="center">
-         <summary><h4>what do i do??</h4></summary>
-        ctrl + c<br>
-        ctrl+v
+         <summary><h4>Can you think what do i do ???</h4></summary>
+        CTRL+C<br>
+        CTRL+V.........
 <p align="center">
   <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
   <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
@@ -41,5 +41,3 @@
   <a href="https://github.com/hiddenuser-sk">See ya <3</a>
 </p>
 </p>
-
-<!-- Copyright by Subodh (hiddenuser-sk) 2024 - Present. All Rights Reserved. -->
