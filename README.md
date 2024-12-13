@@ -7,7 +7,7 @@
 - 👀  I like to write computer `code`.<br>
 - 🌱 I’m currently learning python<br>
 - 💞️ I’m looking to collaborate on github<br>
-- ⚡ Fun fact: Their is no fun in it c++<br>
+- ⚡ Fun fact: Their is no fun in it<br>
 
 
 <!--STARTS_HERE_QUOTE_README-->
