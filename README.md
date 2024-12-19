@@ -8,6 +8,17 @@
 - 🌱 I’m currently learning python<br>
 - 💞️ I’m looking to collaborate on github<br>
 - ⚡ Fun fact: Their is no fun in it<br>
+🔭 Perfection isn't the goal.<br>
+🧑‍💻 I like to write computer code.<br>
+🤝 I’m looking for help with file management in my computer.<br>
+✨ Living inside the terminal.<br>
+🌱 I’m currently learning some nasty stuff.<br>
+💬 Ask me about nothing.<br>
+👌 I respect my time.<br>
+⚡ Fun fact: no fun, only code.<br>
+💥 Keep moving and you'll overcome one day.<br>
+📧 You will find a way.<br>
+💫ANY QUERY REGARDING ME THAN GET LOST!<br>
 
 
 <!--STARTS_HERE_QUOTE_README-->
