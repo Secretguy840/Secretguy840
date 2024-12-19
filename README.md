@@ -41,11 +41,7 @@
 <p align="center">
          <summary><h4>Can you think what do i do ???</h4></summary>
         CTRL+C<br>
-        CTRL+V.........
-<p align="center">
-  <i>&copy; <a href="https://github.com/hiddenuser-sk/">Subodh </a> 2024 - Present</i><br>
-  <i>Licensed under <a href="https://mit-license.org/">MIT</a></i><br>
-  <img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /><br>
+        CTRL+V......
   <kbd>Thanks for visiting :)</kbd>
     <p align="center">
   <a href="https://github.com/hiddenuser-sk">See ya <3</a>
