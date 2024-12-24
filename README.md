@@ -18,6 +18,7 @@
 -💥 Keep moving and you'll overcome one day.<br>
 -📧 You will find a way.<br>
 -💫ANY QUERY REGARDING ME THAN GET LOST!<br>
+-💞️Everything is an illusion/attachment<br>
 
 
 <!--STARTS_HERE_QUOTE_README-->
