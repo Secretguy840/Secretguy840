@@ -1,5 +1,27 @@
 <h1>👋 - Hi visitor</h1>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Hello+Shivansh+here;Everything+is+fine;Thanks+for+being+here.">
+<p align="center" style="margin-top: 20px">
+  <p align="center">
+  <br>
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
+    <a href="README.es.md">Española</a>
+    ·
+    <a href="README.fr.md">Français</a>
+    ·
+    <a href="README.ar.md">عربي</a>
+    ·
+    <a href="README.de.md">Deutsch</a>
+    ·
+    <a href="README.zh-CN.md">中国人</a>
+    ·
+    <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
+  </p>
+</p>
 
 ## 💫 About Me:
 
