@@ -3,14 +3,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
 </p>
-<p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
-<p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
-<h3 align="center">F*** Zodiac signs, let's play Pokemon together</h3>
+<p>:I am a 9th class student who like coding in gitlub . Please cheack my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .   .</p>
+<p>:heart: I am what you can call a mad child. Actually iam also learning french.</p>
+<h3 align="center">F***  https://github.com/hiddenuser-sk , let's play with Pokemon cards together</h3>
 <p align="center">
-  <a href="https://o.charles-chrismann.fr/gba/input">
-    <img src="./assets/gba/top.png">
-  </a>
-  <br>
 
 **Secretguy840/Secretguy840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <p align="center">
