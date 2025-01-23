@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋<h2>👋 - Hi visitor</h2>
+<h3>I'm Secretguy840 </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charles-Chrismann">
+</p>
+<p>:technologist: I'm a french student in 3rd year in web development at <a href="https://www.iim.fr" target="_blank" rel="noreferrer" title="Institut de l'Internet et du Multimédia">IIM DigitalSchool</a> in Paris.</p>
+<p>:heart: I am what you can call a javascript/typescript enthousiaste.</p>
+<h3 align="center">F*** Zodiac signs, let's play Pokemon together</h3>
+<p align="center">
+  <a href="https://o.charles-chrismann.fr/gba/input">
+    <img src="./assets/gba/top.png">
+  </a>
+  <br>
 
 **Secretguy840/Secretguy840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <p align="center">
