@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=https://github.com/Secretguy840/Secretguy840">
 </p>
-<p>:I am a 9th class student who like coding in gitlub . Please cheack my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
+<p>: I am a 9th class student who like coding in github . Please cheack my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
 <p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
 <h3 align="center">F***  https://github.com/hiddenuser-sk , let's play with Pokemon cards together</h3>
 <p align="center">
