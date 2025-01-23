@@ -73,7 +73,7 @@
       <td align="center">1</td>
       <td align="center">
         <a href="https://github.com/offensive-vk="_blank">
-          <img src="https://avatars.githubusercontent.com/u/91737184?u=4d3526d55a4f22dee64d82fb4eb04a13ac8ab084&v=4" alt="rgomes07" width="40" height="40"/>
+          <img src="https://avatars.https://github.com/user-attachments/assets/4dcf5928-8a07-41a7-9160-c6bfac96482b" alt="rgomes07" width="40" height="40"/>
         </a>
       </td>
       <td>
