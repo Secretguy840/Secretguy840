@@ -62,36 +62,6 @@
     <img src="./assets/gba/btn-start.png">
   </a>
 </p>
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3" width="512">Best Friends</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td align="center">
-        <a href="https://github.com/offensive-vk="_blank">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/offensive-vk="_blank">offensive-vk</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="center">
-        <a href="https://github.com/hiddenuser-sk" target="_blank">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hiddenuser-sk" target="_blank">hiddenuser-sk</a>
-      </td>
-    </tr>
-    <tr>
-      
-
 
 **Secretguy840/Secretguy840** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   <p align="center">
