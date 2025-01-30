@@ -535,7 +535,7 @@
     </a>
 </details>
 <details>
-    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
+    <summary><h4>🐍 wanna see Snakes?Click here ✅</h4></summary>
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
