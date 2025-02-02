@@ -5,7 +5,7 @@
 </p>
 <p>: I am a 9th class student who like coding in github . Please cheack my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
 <p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-<h3 align="center">F***  https://github.com/hiddenuser-sk , let's play with Pokemon cards together</h3>
+<h3 align="center">F*** https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
 <table align="center">
   <thead>
     <tr>
@@ -524,6 +524,93 @@
 </table><h3 align="center">
 <a href="https://o.charles-chrismann.fr/chess/new">Reset Game</a>
 </h3>
+<p align="center" style="margin-top: 20px">
+  <p align="center">
+  <br>
+    <strong> 
+    ·
+    <a><code>English</code></a>
+    ·
+    <a href="README.es.md">Española</a>
+    ·
+    <a href="README.fr.md">Français</a>
+    ·
+    <a href="README.ar.md">عربي</a>
+    ·
+    <a href="README.de.md">Deutsch</a>
+    ·
+    <a href="README.zh-CN.md">中国人</a>
+    ·
+    <a href="README.ru.md">Русский</a>
+    ·
+    </strong>
+  </p>
+</p>
+
+<!--
+[![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
+
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
+
+🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer `code`.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
+
+<!--STARTS_HERE_QUOTE_README-->
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
+<!--ENDS_HERE_QUOTE_README-->
+
+---
+<h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
+    <p align="left">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a>
+        <a href="https://docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+        <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /> </a>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/php/php-original.svg" alt="php" width="40" height="40" /> </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
+        <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
+    </p>
+</details>
+
+<!-- Showing Stuff, that i dont care about lol. have fun -->
+<details>
+  <summary><h3>🚀 Expecting Something Better? &rarr;</h3></summary>
+    <img src="./assets/shocked.gif" alt="aint no way" height=auto width=auto />
+
+<!-- Outer switch START -->
 <details>
   <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/offensive-vk">
@@ -534,8 +621,33 @@
       </picture>
     </a>
 </details>
+
 <details>
-    <summary><h4>🐍 wanna see Snakes?Click here ✅</h4></summary>
+  <summary><h4>⭐ Achievements & Awards ✅ </h4></summary>
+    <img src="./assets/achievements.svg" alt="..." height=auto width=auto />
+</details>
+
+<details>
+  <summary><h4>💻 Top Languages ✅</h4></summary>
+    <img src="./assets/languages.svg" alt="..." height=auto width=auto />
+</details>
+
+***
+➡️   What? Want More Activity? **[Click Here](./RECENT.md)**
+</details>
+
+<details>
+    <summary><h4>📊 Github Metrics ✅</h4></summary>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width=600 height=400 alt='metrics' />
+        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" width=600 height=400 alt='metrics' />
+        <img src="./profile-3d-contrib/profile-season.svg" width=600 height=400 alt='metrics' />
+    </picture>
+    <img align="center" width="auto" height="auto" src="./assets/tickets.svg" alt='metrics' />
+</details>
+
+<details>
+    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
@@ -544,8 +656,13 @@
      </picture>
     </div>
 </details>
-
-<details>
+<p align="center">
+  <i>&copy; <a href="https://github.com/offensive-vk/">Vedansh </a> 2023 - Present</i><br>
+  <i>Licensed under <a href="https://github.com/offensive-vk/offensive-vk/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
+  <a href="https://github.com/TheHamsterBot"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
+  <kbd>Thanks for visiting :)</kbd>
+</p>
+</details>
 
 
 
