@@ -1,11 +1,8 @@
 ## Hi there 👋<h2>👋 - Hi visitor</h2>
 <h3>I'm Secretguy840 </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Secretguy840/Secretguy840">
-</p>
-<p>: I am a 9th class student who like coding in github . Please cheack my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
+<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
 <p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-<h3 align="center">F*** https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
+<h3 align="center"> I am calling https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
 <table align="center">
   <thead>
     <tr>
