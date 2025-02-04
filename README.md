@@ -554,14 +554,13 @@
 <h3>I'm Secretguy840 </h3>
 <p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
 <p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-- 🔭 I’m currently working on Github and maths.
-- 🌱 I’m currently learning Python And Mysql
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with https://github.com/hidden-user-sk 
-- 💬 Ask me about A.I.
-- 📫 How to reach me: Follow me
-- ⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment
--->
+- <br>🔭 I’m currently working on Github and maths.</br>
+- <br>🌱 I’m currently learning Python And Mysql.</br>
+- <br>👯 I’m looking to collaborate on Github.</br>
+- <br>🤔 I’m looking for help with https://github.com/hidden-user-sk .</br> 
+- <br>💬 Ask me about A.I.</br>
+- <br>📫 How to reach me: Follow me</br>
+- <br>⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment</br>
 
 
 ---
