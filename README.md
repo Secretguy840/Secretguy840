@@ -551,12 +551,18 @@
   <summary><h3>✨ About Me &rarr;</h3></summary>
    
 ## 💫 About Me:
+<h3>I'm Secretguy840 </h3>
+<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
+<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
+- 🔭 I’m currently working on Github and maths.
+- 🌱 I’m currently learning Python And Mysql
+- 👯 I’m looking to collaborate on Github
+- 🤔 I’m looking for help with https://github.com/hidden-user-sk 
+- 💬 Ask me about A.I.
+- 📫 How to reach me: Follow me
+- ⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment
+-->
 
-🔭 _Perfection isn't the goal_.<br>🧑‍💻 I like to write computer `code`.<br>🤝 I’m looking for help with file management in my computer.<br>✨ Living inside the `terminal`. <br>🌱 I’m currently learning some _nasty_ stuff. <br>💬 Ask me about nothing. <br>👌 I respect my time. <br>⚡ Fun fact: no fun, only code. <br>💥 Keep moving and you'll overcome one day. <br>📧 _You will find a way_.
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
 
 ---
 <h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
@@ -619,28 +625,9 @@
     </a>
 </details>
 
-<details>
-  <summary><h4>⭐ Achievements & Awards ✅ </h4></summary>
-    <img src="./assets/achievements.svg" alt="..." height=auto width=auto />
-</details>
-
-<details>
-  <summary><h4>💻 Top Languages ✅</h4></summary>
-    <img src="./assets/languages.svg" alt="..." height=auto width=auto />
-</details>
 
 ***
 ➡️   What? Want More Activity? **[Click Here](./RECENT.md)**
-</details>
-
-<details>
-    <summary><h4>📊 Github Metrics ✅</h4></summary>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" width=600 height=400 alt='metrics' />
-        <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" width=600 height=400 alt='metrics' />
-        <img src="./profile-3d-contrib/profile-season.svg" width=600 height=400 alt='metrics' />
-    </picture>
-    <img align="center" width="auto" height="auto" src="./assets/tickets.svg" alt='metrics' />
 </details>
 
 <details>
