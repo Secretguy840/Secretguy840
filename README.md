@@ -546,66 +546,6 @@
 
 <!--
 [![SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=1000&color=20F77B&width=850&height=100&lines=Fine+,+Have+A+Look+Around;You'll+Find+Some+Cool+Stuff;Thank+you+for+being+here.)](https://git.io/typing-svg) -->
-
-<details>
-  <summary><h3>✨ About Me &rarr;</h3></summary>
-   
-## 💫 About Me:
-<h3>I'm Secretguy840 </h3>
-<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
-<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-- <br>🔭 I’m currently working on Github and maths.</br>
-- <br>🌱 I’m currently learning Python And Mysql.</br>
-- <br>👯 I’m looking to collaborate on Github.</br>
-- <br>🤔 I’m looking for help with https://github.com/hidden-user-sk .</br> 
-- <br>💬 Ask me about A.I.</br>
-- <br>📫 How to reach me: Follow me</br>
-- <br>⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment</br>
-
-
----
-<h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
-    <p align="left">
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
-        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
-        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a>
-        <a href="https://docker.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-        <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /> </a>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/php/php-original.svg" alt="php" width="40" height="40" /> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/python/python-original.svg" alt="python" width="40" height="40" /> </a>
-        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
-        <a href="https://github.com/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
-        <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
-    </p>
-</details>
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
@@ -738,6 +678,66 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
+
+<details>
+  <summary><h3>✨ About Me &rarr;</h3></summary>
+   
+## 💫 About Me:
+<h3>I'm Secretguy840 </h3>
+<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
+<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
+- <br>🔭 I’m currently working on Github and maths.</br>
+- <br>🌱 I’m currently learning Python And Mysql.</br>
+- <br>👯 I’m looking to collaborate on Github.</br>
+- <br>🤔 I’m looking for help with https://github.com/hidden-user-sk .</br> 
+- <br>💬 Ask me about A.I.</br>
+- <br>📫 How to reach me: Follow me</br>
+- <br>⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment</br>
+
+
+---
+<h3 align="left" title="...and I'm happy to see you here :)">🧑‍💻 Languages and Tools: </h3>
+    <p align="left">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/bash/bash-original.svg" alt="bash" width="40" height="40" /> </a>
+        <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/css3/css3-original.svg" alt="css3" width="40" height="40" /> </a>
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40" /> </a>
+        <a href="https://docker.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/docker/docker-original.svg" alt="docker" width="40" height="40" /> </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/githubactions/githubactions-original.svg" alt="gh-actions" width="40" height="40" /> </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
+        <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /> </a>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/php/php-original.svg" alt="php" width="40" height="40" /> </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+        <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" /> </a>
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/github/github-original.svg" height="40" width="40" alt="github"/> </a>
+        <a href="https://pnpm.io/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/offensive-vk/Icons@master/pnpm/pnpm-original.svg" height="40" width="40" alt="pnpm"/> </a>
+    </p>
+</details>
 
 <!-- Showing Stuff, that i dont care about lol. have fun -->
 <details>
