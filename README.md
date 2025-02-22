@@ -1,10 +1,6 @@
 ## Hi there 👋<h2>👋 - Hi visitor</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Whats+up;Everything+Is+Illusion;Have+A+Good+Day+And+Eat+Good+Day;Thanks+for+Eating+Good+Day+here.">
-
-
-<img src="https://readme-typing-svg.demolab.com?
-  font=Fira+Code&size=50&duration=1500&pause=2000&color=20F77B&width=850&height=100&lines=Thanks+for+Being+here.">
 ***
 
 
