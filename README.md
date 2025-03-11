@@ -639,8 +639,57 @@
   </a>
 </p>
 
+
 <details>
   <summary><h3>✨ About Me &rarr;</h3></summary>
+  <details>
+    ➡️   What? Want More Activity? **[Click Here](./RECENT.md)**
+</details>
+<details>
+  <summary><h4>⚡ Recent Activity ✅</h4></summary>
+    <p align="left">
+        <a href="https://github.com/offensive-vk/">
+            <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=Secretguy840/" alt='stats'>
+        </a>
+    </p>
+<p align="left">
+
+
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#7895](https://github.com/kamranahmedse/developer-roadmap/pull/7895) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 🗣 Commented on [#227274](https://github.com/microsoft/vscode/issues/227274#issuecomment-2547967316) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🎉 Merged PR [#4](https://github.com/Secretguy840/auto-user-activity/pull/4) in [Secretguy840/auto-user-activity](https://github.com/Secretguy840/auto-user-activity)
+4. 💪 Opened PR [#4](https://github.com/Secretguy40/auto-user-activity/pull/4) in [Secretguy840/auto-user-activity](https://github.com/Secretguy840/auto-user-activity)
+5. ❗ Opened issue [#18](https://github.com/Secretguy40/auto-label/issues/18) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+6. 🔒 Closed issue [#16](https://github.com/Secretguy40/auto-label/issues/16) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+7. 🎉 Merged PR [#17](https://github.com/Secretguy40/auto-label/pull/17) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+8. 💪 Opened PR [#17](https://github.com/Secretguy40/auto-label/pull/17) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+9. 🎉 Merged PR [#15](https://github.com/Secretguy40/auto-label/pull/15) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+10. ❗ Opened issue [#16](https://github.com/Secretguy40/auto-label/issues/16) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+11. 💪 Opened PR [#15](https://github.com/Secretguy40/auto-label/pull/15) in [Secretguy840/auto-label](https://github.com/Secretguy840/auto-label)
+12. 🎉 Merged PR [#77](https://github.com/Secretguy40/AwesomeScripts/pull/77) in [Secretguy840/AwesomeScripts](https://github.com/offensive-vk/AwesomeScripts)
+13. 💪 Opened PR [#77](https://github.com/Secretguy840/AwesomeScripts/pull/77) in [Secretguy840/AwesomeScripts](https://github.com/Secretguy840/AwesomeScripts)
+14. 🎉 Merged PR [#283](https://github.com/Secretguy40/UntilEverything/pull/283) in [Secretguy840/UntilEverything](https://github.com/Secretguy840/UntilEverything)
+15. 💪 Opened PR [#7883](https://github.com/kamranahmeds8e/developer-roadmap/pull/7883) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+<!--END_SECTION:activity-->
+  
+  <details>
+    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-light.svg" height=250 width=850 alt="snake" />
+        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+     </picture>
+    </div>
+</details>
+
+  
+<details>
+  <summary><h4>👻 Quick Snapshot of Past ✅</h4></summary>
+    <img src="./assets/all.svg" alt="..." height=auto width=auto />
+</details>
+-->
    
 ## 💫 About Me:
 <h3>I'm Secretguy840 </h3>
