@@ -660,6 +660,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/>
   </a>
 </p>
+  <details>
+    <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
+    <div align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-dark.svg" height=250 width=850 alt="snake" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake-light.svg" height=250 width=850 alt="snake" />
+        <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
+     </picture>
+    </div>
+</details>
+
 
 
 <details>
@@ -676,7 +687,6 @@
     </p>
 <p align="left">
 
-  
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
