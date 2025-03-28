@@ -7,8 +7,7 @@
 <h3>I'm Secretguy840 </h3>
 <p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
 <p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-<h3 align="center"> I am calling https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
-<h4 align="center"> I have a BIG NEWS for you . I am Openning one more GITHUB Account.https://github.com/Race-Gamerz
+<h3 align="center">I have a BIG NEWS for you . I am Openning one more GITHUB Account.https://github.com/Race-Gamerz. I am calling https://github.com/hidden-user-sk , let's play with Pokemon cards together</h3>
 <table align="center">
   <thead>
     <tr>
