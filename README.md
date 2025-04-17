@@ -731,10 +731,7 @@ Keep the bird flying!
 
 <details>
   <summary><h3>✨ About Me &rarr;</h3></summary>
-  <details>
-    ➡️   What? Want More Activity? **
-    <!-- Outer switch START -->
-<details>
+
   <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/Secretguy840">
        <picture>
@@ -745,7 +742,6 @@ Keep the bird flying!
     </a>
 </details>
 
-</details>
 <details>
   <summary><h4>⚡Have A Look at A.I.✅</h4></summary>
   
