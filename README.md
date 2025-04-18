@@ -731,8 +731,6 @@ Keep the bird flying!
 
 <details>
   <summary><h3>✨ About Me &rarr;</h3></summary>
-
-  <summary><h4>💻 Click here to See Cool Stuff ⬇️</h4></summary>
     <a href="https://github.com/Secretguy840">
        <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Secretguy840?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
@@ -764,6 +762,27 @@ output = creator.generate(
         <img src="https://github.com/offensive-vk/offensive-vk/blob/master/assets/github-snake.gif" height=250 width=850 alt="snake" />
      </picture>
     </div>
+</details>
+
+<details>
+    <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
+
+**Wanna See Everything?** [Click Here](https://github.com/Secretguy840/Secretguy840/actions)
+
+**Wanna See Workflow File?** [Click Here](https://github.com/Secretguy840/Secretguy840/tree/master/WORKFLOWS.md)
+
+**Wanna See Repository Stats?** [Click Here](https://github.com/Secretguy840/Secretguy840/tree/master/STATS.md)
+
+</details>
+
+***
+
+<p align="center">
+  <i>&copy; <a href="https://github.com/Secretguy840/">Shivansh </a> 2023 - Present</i><br>
+  <i>Licensed under <a href="https://github.com/Secretguy840/Secretguy840/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
+  <a href="https://github.com/Race-Gamerz"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
+  <kbd>Thanks for visiting :)</kbd>
+</p>
 </details>
 
    
