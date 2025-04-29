@@ -72,6 +72,21 @@ Eat those dots and avoid ghosts!
 Keep the bird flying!  
 [![Play Flappy Bird](https://img.shields.io/badge/Play-Flappy%20Bird-blueviolet)](https://flappybird.io/)
 
+### 7. **semantris**
+You have to Win!  
+[![semantris](https://img.shields.io/badge/Play-semantris%20-Pink)](https://research.google.com/semantris/)
+
+### 8. **Emoji Scavenger Hunt**
+Find out fast!  
+[![Emoji Scavenger Hunt](https://img.shields.io/badge/Play-EmojiScavengerHunt%20-red)](https://archive.google/emojiscavengerhunt/)
+
+### 9. **Quick Draw**
+Draw fast!  
+[![Quick Draw](https://img.shields.io/badge/Play-QuickDraw%20-yellow)](https://quickdraw.withgoogle.com/)
+
+### 10. **Sonic**
+Play Fast!  
+[![Sonic](https://img.shields.io/badge/Play-Sonic%20-blue)](https://www.allsonicgames.net/)
 ###
 <h3 align="center">A classic Minesweeper</h3>
 <p align="center">
