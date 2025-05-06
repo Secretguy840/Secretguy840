@@ -1,13 +1,15 @@
-## Hi there 👋<h2>👋 - Hi visitor</h2>
+## Hi there 👋<h2>👋 - Hey guys it's me https://github.com/Secretguy840</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=550&pause=700&color=20F77B&width=9500&height=1000&lines=Whats+up;Everything+Is+Illusion;Have+A+Good+Day;And+Eat+Good+Day+Biscuits;Thanks+for+Eating+Good+Day.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS+IT'S+ME;https://github.com/Secretguy840;THANKS+FOR+VISITING.">
 ***
 
 
 <h3>I'm Secretguy840 </h3>
-<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
-<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-<h3 align="center">I have a BIG NEWS for you . I am Openning one more GITHUB Account.https://github.com/Race-Gamerz.</h3>
+<p>: I am https://github.com/Secretguy840.</p>
+<h3 align="center"> I am giving you the code to watch nearly every movie at one website.</h3>
+
+
+
 <table align="center">
   <thead>
     <tr>
@@ -598,6 +600,15 @@ Play Fast!
     </tr>
   </tbody>
 </table>
+<h1 align="center">Social Accounts</h1>
+
+### 1. **Github**  
+[![Secretguy840](https://img.shields.io/badge/Veiw-Secretguy840-Yellow)](https://github.com/Secretguy840)
+### 2. **Discord**
+[![Discord](https://img.shields.io/badge/Veiw-discord-blueviolet)](https://discord.com/channels/@me)
+### 3. **X**
+[![X](https://img.shields.io/badge/Veiw-X-Green)](https://x.com/SecretGuy840)
+
 
 <h1 align="center">Technical skills</h1>
 <h3 align="left">Currently learning:
@@ -732,6 +743,19 @@ Play Fast!
   </a>
 </p>
   <details>
+    <summary><h4>📚📖⬇️READ DIARY OF A WIMPY KID WRITE HERE⬇️📖📚</h4></summary>
+    
+### 1. **Diary of a wimpy kid**
+[![DOWK](https://img.shields.io/badge/Read-DOWK-red)](https://online.fliphtml5.com/jrmc/uitd/#p=1)
+
+### 1. **HOT MESS** 
+[![Hotmess](https://img.shields.io/badge/Read-HotMess-red)](https://online.fliphtml5.com/cpnwz/fjcr/#p=1)
+
+### 10. **Wrecking Ball**
+Play Fast!  
+[![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
+</details>
+  <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
       <picture>
@@ -746,27 +770,17 @@ Play Fast!
 
 <details>
   <summary><h3>✨ About Me &rarr;</h3></summary>
-    <a href="https://github.com/Secretguy840">
-       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/Secretguy840?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/Secretguy840?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-        <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/Secretguy840?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/Secretguy840?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)">
-      </picture>
-    </a>
+  <details>
+    ➡️   What? Want More Activity? **[Click Here](./RECENT.md)**
 </details>
-
 <details>
-  <summary><h4>⚡Have A Look at A.I.✅</h4></summary>
-  
-# Sample Generation Code
-from secretguy840 import MagicAI
-
-creator = MagicAI()
-output = creator.generate(
-    prompt="cyberpunk cityscape",
-    style="neon-futurism",
-    motion="wave"
-)
+  <summary><h4>⚡ Recent Activity ✅</h4></summary>
+    <p align="left">
+        <a href="https://github.com/RACE-GAMERZ/">
+            <img align='right' width=300 height=300 src="https://github-contribution-stats.vercel.app/api/?username=Secretguy840/" alt='stats'>
+        </a>
+    </p>
+<p align="left">
 
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
@@ -779,48 +793,102 @@ output = creator.generate(
     </div>
 </details>
 
-<details>
-    <summary><h4>🐹 CI and Workflow Status ✅</h4></summary>
-
-**Wanna See Everything?** [Click Here](https://github.com/Secretguy840/Secretguy840/actions)
-
-**Wanna See Workflow File?** [Click Here](https://github.com/Secretguy840/Secretguy840/tree/master/WORKFLOWS.md)
-
-**Wanna See Repository Stats?** [Click Here](https://github.com/Secretguy840/Secretguy840/tree/master/STATS.md)
-
-</details>
-
-***
-
-<p align="center">
-  <i>&copy; <a href="https://github.com/Secretguy840/">Shivansh </a> 2023 - Present</i><br>
-  <i>Licensed under <a href="https://github.com/Secretguy840/Secretguy840/tree/master/LICENSE">GNU Affero General Public License</a></i><br>
-  <a href="https://github.com/Race-Gamerz"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
-  <kbd>Thanks for visiting :)</kbd>
-</p>
-</details>
-
    
 ## 💫 About Me:
-<h3>I'm Secretguy840 </h3>
-<p>: I am a 9th class student who like coding in github . Please check my Repositories TO KNOW ABOUT MY KNOWLEDGE in coding .</p>
-<p>:heart: I am what you can call a mad child. Actually i am also learning french.</p>
-- <br>🔭 I’m currently working on Github and maths😅😅.</br>
-- <br>🌱 I’m currently learning Python And Mysql.</br>
-- <br>👯 I’m looking to collaborate on Github.</br>
-- <br>🤔 I’m looking for help with https://github.com/Race-Gamerz.</br> 
-- <br>💬 Ask me about A.I.</br>
-- <br>📫 How to reach me: Follow me</br>
-- <br>⚡ Fun fact: Nothing is in this life Everything is an illusion/attachment</br>
-- <br>📺Binary name: 01010011 01101000 01101001 01110110 01100001 01101110 01110011 01101000 00100000 01001011 01101000 01100001 01101110 01100100 01100101 01101100 01110111 01100001 01101100</br>
+🏁 Race-Gamerz - Ultimate Gaming Hub 🎮
+Welcome to Race-Gamerz, the ultimate gaming profile for speedrunners, competitive racers, and adrenaline-fueled gamers! Whether you're into high-speed racing games, FPS battles, or open-world adventures, this is your pit stop for gaming excellence.
+
+🔥 About Race-Gamerz
+🚀 Gamer Tag: Race-Gamerz
+🏆 Specialty: Racing Games, FPS, Open-World Adventures
+🎯 Playstyle: Competitive, Speedrunning, High-Octane Action
+💻 Platforms: PC, PlayStation, Xbox, Nintendo Switch
+📺Binary name:01010011 01101000 01101001 01110110 01100001 01101110 01110011 01101000 00100000 01001011 01101000 01100001 01101110 01100100 01100101 01101100 01110111 01100001 01101100
+
+🏎️ Favorite Games
+Game	Genre	High Score/Best Time
+Forza Horizon 5	Racing	1st Place (Rivals Mode)
+Need for Speed Heat	Arcade Racing	100% Completion
+Call of Duty: Warzone	FPS Battle Royale	25-Kill Record
+Grand Theft Auto V	Open-World	Speedrun: 3h 45m
+Mario Kart 8 Deluxe	Kart Racing	200cc World Record Contender
+🎮 Gaming Setup
+🖥️ PC Specs:
+
+CPU: Intel i9-13900K
+
+GPU: NVIDIA RTX 4090
+
+RAM: 32GB DDR5
+
+Storage: 2TB NVMe SSD
+
+🎧 Peripherals:
+
+Keyboard: Razer Huntsman V2
+
+Mouse: Logitech G Pro X Superlight
+
+Headset: SteelSeries Arctis Pro
+
+Controller: Xbox Elite Series 2
+
+📺 Streaming Setup:
+
+Stream Platform: Twitch / YouTube
+
+Capture Card: Elgato 4K60 Pro
+
+Mic: Shure SM7B
+
+🏆 Achievements & Records
+✅ Forza Horizon 5 – Unbeatable AI (100% Wins)
+✅ Need for Speed Heat – Ultimate Custom Build (Maxed Out)
+✅ Warzone – 25-Kill Solo Win (World Top 1%)
+✅ GTA V – Speedrun World Ranking (Top 500)
+
+📅 Upcoming Events & Goals
+🎯 Competing in:
+
+Forza Motorsport World Championship
+
+NFS Unbound Online Tournaments
+
+COD Warzone Global Series
+
+📈 2024 Goals:
+
+Hit 10K Followers on Twitch
+
+Break into Top 100 GTA Speedrunners
+
+Win a Local Esports Tournament
+
+📢 Connect With Me
+💬 Discord: Race-Gamerz#1234
+📺 Twitch: twitch.tv/Race-Gamerz
+🐦 Twitter: @RaceGamerz
+🎥 YouTube: youtube.com/RaceGamerz
+
+🚀 Join the Race-Gamerz Community!
+🔥 Follow for:
+✔ Live Streams (Weekdays 7PM-11PM EST)
+✔ Speedrun Tutorials
+✔ Esports Highlights
+✔ Custom Racing Tunes & Builds
+
+"Speed is my game, and victory is my name!" 🏁💨
+
+© 2024 Race-Gamerz | All Rights Reserved
+
 
 ---
 
-Good day!
+Have a Good day!
 
 
 
 
 
 
-<p align="right">Generated in 0.0000000000000000000001s on thu jan 1 at 12:01 PM</p>
+<p>align="right">Generated in 0.000000000000000000001s on WED Dec 2025 12 at 1:00AM</p>
