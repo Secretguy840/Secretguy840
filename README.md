@@ -768,16 +768,19 @@ Play Fast!
 [![The Third Wheel](https://img.shields.io/badge/Read-TheThirdWheel%20-brown)](https://online.fliphtml5.com/qtevf/ybwm/index.html#p=1)
 
 ### 8.**Hard Luck**  
-[![Hard Luck](https://img.shields.io/badge/Read-HardLuck%20-grey)](https://online.fliphtml5.com/jozwk/nnss/#p=1)
+[![Hard Luck](https://img.shields.io/badge/Read-HardLuck%20-lightgreen)](https://online.fliphtml5.com/jozwk/nnss/#p=1)
+
+### 9.**The Long Haul**  
+[![The Long Haul](https://img.shields.io/badge/Read-TheLongHaul%20-orange)](https://online.fliphtml5.com/qtevf/oixb/#p=1)
 
 ### 14.**Wrecking Ball**  
 [![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
 
-### ♾️. **Squid Game** 
-[![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
-
 ### 18. **No Brainer**
 [![No Brainer](https://img.shields.io/badge/Read-NoBrainer%20-green)](https://online.fliphtml5.com/xvlhn/jrgj/#p=1)
+
+### ♾️. **Squid Game** 
+[![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
 </details>
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
