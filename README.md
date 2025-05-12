@@ -604,11 +604,11 @@ Play Fast!
 <h1 align="center">Social Accounts</h1>
 
 ### 1. **Github**  
-[![Secretguy840](https://img.shields.io/badge/Veiw-Secretguy840-Yellow)](https://github.com/Secretguy840)
+[![Secretguy840](https://img.shields.io/badge/Veiw-RACE-GAMERZ)](https://github.com/Race-Gamerz)
 ### 2. **Discord**
 [![Discord](https://img.shields.io/badge/Veiw-discord-blueviolet)](https://discord.com/channels/@me)
 ### 3. **X**
-[![X](https://img.shields.io/badge/Veiw-X-Green)](https://x.com/SecretGuy840)
+[![X](https://img.shields.io/badge/Veiw-X-black)](https://x.com/SecretGuy840)
 
 
 <h1 align="center">Technical skills</h1>
