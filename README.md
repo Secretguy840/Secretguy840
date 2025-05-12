@@ -1,4 +1,4 @@
-## Hi there 👋<h2>👋 - Hey guys it's me https://github.com/Secretguy840</h2>
+## Hi there 👋<h2>👋 - Hey guys</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS+IT'S+ME;https://github.com/Secretguy840;THANKS+FOR+VISITING.">
 ***
@@ -8,7 +8,8 @@
 <p>: I am https://github.com/Secretguy840.</p>
 <h3 align="center"> I am giving you the code to watch nearly every movie at one website.</h3>
 
-
+<h3>Here's my new Github Account </h3>
+<p>: https://github.com/Race-Gamerz.</p>
 
 <table align="center">
   <thead>
