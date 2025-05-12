@@ -604,7 +604,7 @@ Play Fast!
 <h1 align="center">Social Accounts</h1>
 
 ### 1. **Github**  
-[![Secretguy840](https://img.shields.io/badge/Veiw-RACE-GAMERZ)](https://github.com/Race-Gamerz)
+[![Secretguy840](https://img.shields.io/badge/Veiw-RACE-GAMERZ%20-yellow)](https://github.com/Race-Gamerz)
 ### 2. **Discord**
 [![Discord](https://img.shields.io/badge/Veiw-discord-blueviolet)](https://discord.com/channels/@me)
 ### 3. **X**
