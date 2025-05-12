@@ -6,7 +6,7 @@
 
 <h3>I'm Secretguy840 </h3>
 <p>: I am https://github.com/Secretguy840.</p>
-<h3 align="center"> I am giving you the code to watch nearly every movie at one website.</h3>
+<h3 align="center"> I am waitng https://github.com/hidden-user-sk to Read DOAWK from my account.</h3>
 
 <h3>Here's my new Github Account </h3>
 <p>: https://github.com/Race-Gamerz.</p>
