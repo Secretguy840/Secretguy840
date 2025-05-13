@@ -783,6 +783,18 @@ Play Fast!
 ### ♾️. **Squid Game** 
 [![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
 </details>
+
+  <details>
+    <summary><h4>📚📖⬇️READ NARUTO MANGA WRITE HERE⬇️📖📚</h4></summary>
+    
+### **Volume 1**
+[![Volume 1](https://img.shields.io/badge/Read-Naruto1%20-orange)](https://fliphtml5.com/njffj/asvl/dokument.pub-naruto-vol-1-flipbook-pdf/)
+
+### **Volume 2**
+[![Volume 2](https://img.shields.io/badge/Read-Naruto2%20-orange)](https://fliphtml5.com/bgpkm/qxrg/NARUTO_-_VOL_2/)
+### **Volume 3**
+[![Volume 3](https://img.shields.io/badge/Read-Naruto3%20-orange)](https://fliphtml5.com/bgpkm/nige/NARUTO_-_VOL_3/)
+</details>
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
