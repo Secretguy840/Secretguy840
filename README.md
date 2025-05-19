@@ -1,44 +1,15 @@
 ## Hi there 👋<h2>👋 - Hey guys</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS+IT'S+ME;https://github.com/Secretguy840;THANKS+FOR+VISITING.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;WELCOME+TO+MY+GITHUB+CHANNEL;THANKS+FOR+VISITING;HAVE+A+GOOOD+DAY.">
 ***
 
 
 <h3>I'm Secretguy840 </h3>
-<p>: I am https://github.com/Secretguy840.</p>
+<p>: There's My new Account https://github.com/Race-Gamerz.</p>
 <h3 align="center"> I am waitng https://github.com/hidden-user-sk to Read DOAWK from my account.</h3>
 
 <h3>Here's my new Github Account </h3>
 <p>: https://github.com/Race-Gamerz.</p>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3" width="512">Best Friends</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">1</td>
-      <td align="center">
-        <a href="https://github.com/offensive-vk="_blank">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/offensive-vk="_blank">offensive-vk</a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">2</td>
-      <td align="center">
-        <a href="https://github.com/hiddenuser-sk" target="_blank">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/hiddenuser-sk" target="_blank">hiddenuser-sk</a>
-      </td>
-    </tr>
-    <tr> 
       
   <h1 align="center">Flex Zone</h1>
   # Welcome to My GitHub Profile! 🚀
@@ -744,6 +715,45 @@ Play Fast!
   </a>
 </p>
 
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3" width="512">Best Friends</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">
+        <a href="https://github.com/offensive-vk="_blank">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/offensive-vk="_blank">offensive-vk</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/hiddenuser-sk" target="_blank">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hiddenuser-sk" target="_blank">hiddenuser-sk</a>
+      </td>
+    </tr>
+    <tr> 
+   <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/hidden-user-sk" target="_blank">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hiddenuser-sk" target="_blank">hidden-user-sk</a>
+      </td>
+    </tr>
+    <tr> 
   <details>
     <summary><h4>📚📖⬇️READ DIARY OF A WIMPY KID WRITE HERE⬇️📖📚</h4></summary>
     
