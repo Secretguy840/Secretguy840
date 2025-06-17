@@ -784,6 +784,9 @@ Play Fast!
 ### 9.**The Long Haul**  
 [![The Long Haul](https://img.shields.io/badge/Read-TheLongHaul%20-orange)](https://online.fliphtml5.com/qtevf/oixb/#p=1)
 
+### 10.**Old School**  
+[![Old School](https://img.shields.io/badge/Read-OldSchool%20-black)](https://online.fliphtml5.com/uukjx/jase/#p=1)
+
 ### 14.**Wrecking Ball**  
 [![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
 
