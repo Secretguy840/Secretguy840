@@ -1,20 +1,16 @@
-## Hi there 👋<h2>👋 - Hey guys</h2>
+## Hi there 👋<h2>👋 - Hey My Citizens</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;WELCOME+TO+MY+GITHUB+CHANNEL;THANKS+FOR+VISITING;HAVE+A+GOOOD+DAY.">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;DONALD+TRUMP+WELCOMES+YOU;THANKS+FOR+VISITING;">
 ***
 
 
-<h3>I'm Secretguy840 </h3>
-<p>: There's My new Account https://github.com/Race-Gamerz.</p>
-<h3 align="center"> I am waitng https://github.com/hidden-user-sk to Read DOAWK from my account.</h3>
+<h3>Donald Trump </h3>
 
-<h3>Here's my new Github Account </h3>
-<p>: https://github.com/Race-Gamerz.</p>
       
   <h1 align="center">Flex Zone</h1>
-  # Welcome to My GitHub Profile! 🚀
+  # Welcome to MY GitHub Profile! 🚀
 
-Hi there! I'm Shivansh khandelwal, a passionate developer who loves building cool stuff. Here's a little about me and some fun games you can play right here on my profile!
+Hi there! I'm DONALD TRUMP, a passionate developer who loves building cool stuff. Here's a little about me and some fun games you can play right here on my profile!
 
 ---
 
@@ -572,14 +568,6 @@ Play Fast!
     </tr>
   </tbody>
 </table>
-<h1 align="center">Social Accounts</h1>
-
-### 1. **Github**  
-[![Secretguy840](https://img.shields.io/badge/Veiw-RaceGamerz%20-yellow)](https://github.com/Race-Gamerz)
-### 2. **Discord**
-[![Discord](https://img.shields.io/badge/Veiw-discord-blueviolet)](https://discord.com/channels/@me)
-### 3. **X**
-[![X](https://img.shields.io/badge/Veiw-X-black)](https://x.com/SecretGuy840)
 
 
 <h1 align="center">Technical skills</h1>
