@@ -147,71 +147,74 @@ Hi there! I'm DONALD TRUMP, a passionate developer who loves building cool stuff
   </a>
 </p> 
 
+# **Official README.md by President Donald J. Trump**  
 
-Welcome ,This document outlines **ALL** the United States federal executive departments – **the best departments**. **Nobody knows departments better than me!**  
+**"The Best README – Believe Me!"**  
+
+Welcome , This document outlines **ALL** the United States federal executive departments – **the best departments**. **Nobody knows departments better than me!**  
 
 ---  
 
 ## **🇺🇸 The United States Federal Executive Departments**  
 
 ### **1. Department of State (DOS)**  
-**Seal**: ![Department of State Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-DeptOfState-Seal.svg/1200px-US-DeptOfState-Seal.svg.png)  
+[![Department of State Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-DeptOfState-Seal.svg/1200px-US-DeptOfState-Seal.svg.png)](https://www.state.gov)  
 **Mission**: "Dealing with foreign leaders – some good, some not so good. **We win so much, you’ll get tired of winning!**"  
 
 ### **2. Department of the Treasury**  
-**Seal**: ![Department of the Treasury Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US-DeptOfTheTreasury-Seal.svg/1200px-US-DeptOfTheTreasury-Seal.svg.png)  
+[![Department of the Treasury Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US-DeptOfTheTreasury-Seal.svg/1200px-US-DeptOfTheTreasury-Seal.svg.png)](https://home.treasury.gov)  
 **Mission**: "Making America rich again! **Nobody handles money better than us!**"  
 
 ### **3. Department of Defense (DOD)**  
-**Seal**: ![Department of Defense Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seal_of_the_U.S._Department_of_Defense.svg/1200px-Seal_of_the_U.S._Department_of_Defense.svg.png)  
+[![Department of Defense Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seal_of_the_U.S._Department_of_Defense.svg/1200px-Seal_of_the_U.S._Department_of_Defense.svg.png)](https://www.defense.gov)  
 **Mission**: "Keeping America safe – **the strongest military in history!** Enemies tremble when they hear us!"  
 
 ### **4. Department of Justice (DOJ)**  
-**Seal**: ![Department of Justice Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/DOJ_Seal.svg/1200px-DOJ_Seal.svg.png)  
+[![Department of Justice Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/DOJ_Seal.svg/1200px-DOJ_Seal.svg.png)](https://www.justice.gov)  
 **Mission**: "Law and order! **Many people are saying we have the best laws!**"  
 
 ### **5. Department of the Interior**  
-**Seal**: ![Department of the Interior Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/US-DeptOfTheInterior-Seal.svg/1200px-US-DeptOfTheInterior-Seal.svg.png)  
+[![Department of the Interior Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/US-DeptOfTheInterior-Seal.svg/1200px-US-DeptOfTheInterior-Seal.svg.png)](https://www.doi.gov)  
 **Mission**: "Beautiful lands, tremendous parks! **Some people don’t appreciate them, but I do!**"  
 
 ### **6. Department of Agriculture (USDA)**  
-**Seal**: ![Department of Agriculture Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US-DeptOfAgriculture-Seal.svg/1200px-US-DeptOfAgriculture-Seal.svg.png)  
+[![Department of Agriculture Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US-DeptOfAgriculture-Seal.svg/1200px-US-DeptOfAgriculture-Seal.svg.png)](https://www.usda.gov)  
 **Mission**: "Farmers love me! **The best crops, the best cows – nobody does it better!**"  
 
 ### **7. Department of Commerce**  
-**Seal**: ![Department of Commerce Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US-DeptOfCommerce-Seal.svg/1200px-US-DeptOfCommerce-Seal.svg.png)  
+[![Department of Commerce Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US-DeptOfCommerce-Seal.svg/1200px-US-DeptOfCommerce-Seal.svg.png)](https://www.commerce.gov)  
 **Mission**: "Business is booming! **The best deals, the best economy – thanks to me!**"  
 
 ### **8. Department of Labor**  
-**Seal**: ![Department of Labor Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/US-DeptOfLabor-Seal.svg/1200px-US-DeptOfLabor-Seal.svg.png)  
+[![Department of Labor Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/US-DeptOfLabor-Seal.svg/1200px-US-DeptOfLabor-Seal.svg.png)](https://www.dol.gov)  
 **Mission**: "Jobs, jobs, jobs! **Unemployment? Lowest ever!**"  
 
 ### **9. Department of Health and Human Services (HHS)**  
-**Seal**: ![HHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/US-DeptOfHHS-Seal.svg/1200px-US-DeptOfHHS-Seal.svg.png)  
+[![HHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/US-DeptOfHHS-Seal.svg/1200px-US-DeptOfHHS-Seal.svg.png)](https://www.hhs.gov)  
 **Mission**: "Healthcare? **We’re fixing it! Nobody knew it was so complicated!**"  
 
 ### **10. Department of Housing and Urban Development (HUD)**  
-**Seal**: ![HUD Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US-HUD-Seal.svg/1200px-US-HUD-Seal.svg.png)  
+[![HUD Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US-HUD-Seal.svg/1200px-US-HUD-Seal.svg.png)](https://www.hud.gov)  
 **Mission**: "Beautiful homes for everyone! **The best buildings, folks!**"  
 
 ### **11. Department of Transportation (DOT)**  
-**Seal**: ![DOT Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US-DeptOfTransportation-Seal.svg/1200px-US-DeptOfTransportation-Seal.svg.png)  
+[![DOT Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US-DeptOfTransportation-Seal.svg/1200px-US-DeptOfTransportation-Seal.svg.png)](https://www.transportation.gov)  
 **Mission**: "Roads, bridges, airports – **all in perfect condition!**"  
 
 ### **12. Department of Energy (DOE)**  
-**Seal**: ![DOE Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/US-DeptOfEnergy-Seal.svg/1200px-US-DeptOfEnergy-Seal.svg.png)  
+[![DOE Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/US-DeptOfEnergy-Seal.svg/1200px-US-DeptOfEnergy-Seal.svg.png)](https://www.energy.gov)  
 **Mission**: "Energy independence! **We have the best oil, the best coal!**"  
 
 ### **13. Department of Education**  
-**Seal**: ![Department of Education Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/US-DeptOfEducation-Seal.svg/1200px-US-DeptOfEducation-Seal.svg.png)  
+[![Department of Education Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/US-DeptOfEducation-Seal.svg/1200px-US-DeptOfEducation-Seal.svg.png)](https://www.ed.gov)  
 **Mission**: "Schools? **Tremendous! Nobody loves students more than me!**"  
 
 ### **14. Department of Veterans Affairs (VA)**  
-**Seal**: ![VA Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Seal_of_the_U.S._Department_of_Veterans_Affairs.svg/1200px-Seal_of_the_U.S._Department_of_Veterans_Affairs.svg.png)  
+[![VA Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Seal_of_the_U.S._Department_of_Veterans_Affairs.svg/1200px-Seal_of_the_U.S._Department_of_Veterans_Affairs.svg.png)](https://www.va.gov)  
 **Mission**: "Our veterans? **The best! We take care of them like never before!**"  
 
 ### **15. Department of Homeland Security (DHS)**  
-**Seal**: ![DHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Seal_of_the_United_States_Department_of_Homeland_Security.svg/1200px-Seal_of_the_United_States_Department_of_Homeland_Security.svg.png)  
+[![DHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Seal_of_the_United_States_Department_of_Homeland_Security.svg/1200px-Seal_of_the_United_States_Department_of_Homeland_Security.svg.png)](https://www.dhs.gov)  
 **Mission**: "Border security? **We’re building the wall, folks!**"  
 
 ---  
@@ -221,59 +224,7 @@ Welcome ,This document outlines **ALL** the United States federal executive depa
 
 *– Donald J. Trump, 45th President of the United States*  
   <details>
-    <summary><h4>📚📖⬇️READ DIARY OF A WIMPY KID WRITE HERE⬇️📖📚</h4></summary>
-    
-### 1. **Diary of a wimpy kid**
-[![DOWK](https://img.shields.io/badge/Read-DOWK-red)](https://online.fliphtml5.com/jrmc/uitd/#p=1)
 
-### 2. **Rodrick Rules**
-[![RodrickRules](https://img.shields.io/badge/Read-RodrickRules-blue)](https://online.fliphtml5.com/gutjj/qwwj/#p=1)
-
-### 3. **The Last Straw** 
-[![The Last Straw](https://img.shields.io/badge/Read-TheLastStraw-Green)](https://online.fliphtml5.com/qtevf/calp/#p=1)
-
-### 4. **Dog Days**
-[![Dog Days](https://img.shields.io/badge/Read-DogDays%20-yellow)](https://fliphtml5.com/qtevf/lklt/Diary_of_a_Wimpy_Kid_Book_04_-_Dog_Days_(_PDFDrive_)/)
-
-### 5. **The Ugly Truth**
-[![The Ugly Truth](https://img.shields.io/badge/Read-TheUglyTruth%20-purple)](https://online.fliphtml5.com/xgemm/gwgy/#p=1)
-
-### 6. **Cabin Fever**
-[![Cabin Fever](https://img.shields.io/badge/Read-CabinFever%20-blue)](https://online.fliphtml5.com/rxfzp/rycx/#p=1)
-
-### 7. **The Third Wheel**
-[![The Third Wheel](https://img.shields.io/badge/Read-TheThirdWheel%20-brown)](https://online.fliphtml5.com/qtevf/ybwm/index.html#p=1)
-
-### 8.**Hard Luck**  
-[![Hard Luck](https://img.shields.io/badge/Read-HardLuck%20-lightgreen)](https://online.fliphtml5.com/jozwk/nnss/#p=1)
-
-### 9.**The Long Haul**  
-[![The Long Haul](https://img.shields.io/badge/Read-TheLongHaul%20-orange)](https://online.fliphtml5.com/qtevf/oixb/#p=1)
-
-### 10.**Old School**  
-[![Old School](https://img.shields.io/badge/Read-OldSchool%20-black)](https://online.fliphtml5.com/uukjx/jase/#p=1)
-
-### 14.**Wrecking Ball**  
-[![Wrecking Ball](https://img.shields.io/badge/Read-WreckingBall%20-grey)](https://online.fliphtml5.com/kgfwn/kfcv/#p=1)
-
-### 18. **No Brainer**
-[![No Brainer](https://img.shields.io/badge/Read-NoBrainer%20-green)](https://online.fliphtml5.com/xvlhn/jrgj/#p=1)
-
-### ♾️. **Squid Game** 
-[![Squid Game](https://img.shields.io/badge/Read-SquidGame-pink)](https://www.scribd.com/document/622301781/Diary-of-the-wimpy-kid-squid-game)
-</details>
-
-  <details>
-    <summary><h4>📚📖⬇️READ NARUTO MANGA WRITE HERE⬇️📖📚</h4></summary>
-    
-### **Volume 1**
-[![Volume 1](https://img.shields.io/badge/Read-Naruto1%20-orange)](https://fliphtml5.com/njffj/asvl/dokument.pub-naruto-vol-1-flipbook-pdf/)
-
-### **Volume 2**
-[![Volume 2](https://img.shields.io/badge/Read-Naruto2%20-orange)](https://fliphtml5.com/bgpkm/qxrg/NARUTO_-_VOL_2/)
-### **Volume 3**
-[![Volume 3](https://img.shields.io/badge/Read-Naruto3%20-orange)](https://fliphtml5.com/bgpkm/nige/NARUTO_-_VOL_3/)
-</details>
   <details>
     <summary><h4>🐍 Do you like snakes? ✅</h4></summary>
     <div align="center">
