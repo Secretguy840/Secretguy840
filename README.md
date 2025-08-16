@@ -158,64 +158,64 @@ Welcome , This document outlines **ALL** the United States federal executive dep
 ## **🇺🇸 The United States Federal Executive Departments**  
 
 ### **1. Department of State (DOS)**  
-[![Department of State Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/US-DeptOfState-Seal.svg/1200px-US-DeptOfState-Seal.svg.png)](https://www.state.gov)  
-**Mission**: "Dealing with foreign leaders – some good, some not so good. **We win so much, you’ll get tired of winning!**"  
+[![State](https://www.state.gov/wp-content/uploads/2019/04/US-DeptOfState-Seal.png)](https://www.state.gov)  
+**Mission**: "Dealing with foreign leaders – some good, some not so good. **We win so much, you'll get tired of winning!**"  
 
 ### **2. Department of the Treasury**  
-[![Department of the Treasury Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/US-DeptOfTheTreasury-Seal.svg/1200px-US-DeptOfTheTreasury-Seal.svg.png)](https://home.treasury.gov)  
+[![Treasury](https://home.treasury.gov/sites/default/files/treasury-seal.png)](https://home.treasury.gov)  
 **Mission**: "Making America rich again! **Nobody handles money better than us!**"  
 
 ### **3. Department of Defense (DOD)**  
-[![Department of Defense Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Seal_of_the_U.S._Department_of_Defense.svg/1200px-Seal_of_the_U.S._Department_of_Defense.svg.png)](https://www.defense.gov)  
+[![Defense](https://media.defense.gov/2018/Oct/05/2002048904/1200/1200/0/181005-D-HN545-0002.JPG)](https://www.defense.gov)  
 **Mission**: "Keeping America safe – **the strongest military in history!** Enemies tremble when they hear us!"  
 
 ### **4. Department of Justice (DOJ)**  
-[![Department of Justice Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/DOJ_Seal.svg/1200px-DOJ_Seal.svg.png)](https://www.justice.gov)  
+[![Justice](https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg)](https://www.justice.gov)  
 **Mission**: "Law and order! **Many people are saying we have the best laws!**"  
 
 ### **5. Department of the Interior**  
-[![Department of the Interior Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/US-DeptOfTheInterior-Seal.svg/1200px-US-DeptOfTheInterior-Seal.svg.png)](https://www.doi.gov)  
-**Mission**: "Beautiful lands, tremendous parks! **Some people don’t appreciate them, but I do!**"  
+[![Interior](https://www.doi.gov/sites/doi.gov/files/doi-seal-400x400.png)](https://www.doi.gov)  
+**Mission**: "Beautiful lands, tremendous parks! **Some people don't appreciate them, but I do!**"  
 
 ### **6. Department of Agriculture (USDA)**  
-[![Department of Agriculture Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/US-DeptOfAgriculture-Seal.svg/1200px-US-DeptOfAgriculture-Seal.svg.png)](https://www.usda.gov)  
+[![Agriculture](https://www.usda.gov/sites/default/files/usda-seal.png)](https://www.usda.gov)  
 **Mission**: "Farmers love me! **The best crops, the best cows – nobody does it better!**"  
 
 ### **7. Department of Commerce**  
-[![Department of Commerce Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/US-DeptOfCommerce-Seal.svg/1200px-US-DeptOfCommerce-Seal.svg.png)](https://www.commerce.gov)  
+[![Commerce](https://www.commerce.gov/sites/default/files/styles/seal/public/2021-03/commerce-seal.png)](https://www.commerce.gov)  
 **Mission**: "Business is booming! **The best deals, the best economy – thanks to me!**"  
 
 ### **8. Department of Labor**  
-[![Department of Labor Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/US-DeptOfLabor-Seal.svg/1200px-US-DeptOfLabor-Seal.svg.png)](https://www.dol.gov)  
+[![Labor](https://www.dol.gov/sites/dolgov/files/general/seal.png)](https://www.dol.gov)  
 **Mission**: "Jobs, jobs, jobs! **Unemployment? Lowest ever!**"  
 
 ### **9. Department of Health and Human Services (HHS)**  
-[![HHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/US-DeptOfHHS-Seal.svg/1200px-US-DeptOfHHS-Seal.svg.png)](https://www.hhs.gov)  
-**Mission**: "Healthcare? **We’re fixing it! Nobody knew it was so complicated!**"  
+[![HHS](https://www.hhs.gov/sites/default/files/hhs-seal.png)](https://www.hhs.gov)  
+**Mission**: "Healthcare? **We're fixing it! Nobody knew it was so complicated!**"  
 
 ### **10. Department of Housing and Urban Development (HUD)**  
-[![HUD Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/US-HUD-Seal.svg/1200px-US-HUD-Seal.svg.png)](https://www.hud.gov)  
+[![HUD](https://www.hud.gov/sites/dfiles/Main/images/HUDSeal.jpg)](https://www.hud.gov)  
 **Mission**: "Beautiful homes for everyone! **The best buildings, folks!**"  
 
 ### **11. Department of Transportation (DOT)**  
-[![DOT Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/US-DeptOfTransportation-Seal.svg/1200px-US-DeptOfTransportation-Seal.svg.png)](https://www.transportation.gov)  
+[![Transportation](https://www.transportation.gov/sites/dot.gov/files/2021-03/dot-seal.png)](https://www.transportation.gov)  
 **Mission**: "Roads, bridges, airports – **all in perfect condition!**"  
 
 ### **12. Department of Energy (DOE)**  
-[![DOE Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/US-DeptOfEnergy-Seal.svg/1200px-US-DeptOfEnergy-Seal.svg.png)](https://www.energy.gov)  
+[![Energy](https://www.energy.gov/sites/default/files/doe-seal.png)](https://www.energy.gov)  
 **Mission**: "Energy independence! **We have the best oil, the best coal!**"  
 
 ### **13. Department of Education**  
-[![Department of Education Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/US-DeptOfEducation-Seal.svg/1200px-US-DeptOfEducation-Seal.svg.png)](https://www.ed.gov)  
+[![Education](https://www.ed.gov/sites/default/files/ed-seal.png)](https://www.ed.gov)  
 **Mission**: "Schools? **Tremendous! Nobody loves students more than me!**"  
 
 ### **14. Department of Veterans Affairs (VA)**  
-[![VA Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Seal_of_the_U.S._Department_of_Veterans_Affairs.svg/1200px-Seal_of_the_U.S._Department_of_Veterans_Affairs.svg.png)](https://www.va.gov)  
+[![VA](https://www.va.gov/img/design/logo/va-seal.png)](https://www.va.gov)  
 **Mission**: "Our veterans? **The best! We take care of them like never before!**"  
 
 ### **15. Department of Homeland Security (DHS)**  
-[![DHS Seal](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Seal_of_the_United_States_Department_of_Homeland_Security.svg/1200px-Seal_of_the_United_States_Department_of_Homeland_Security.svg.png)](https://www.dhs.gov)  
-**Mission**: "Border security? **We’re building the wall, folks!**"  
+[![DHS](https://www.dhs.gov/sites/default/files/images/dhs-seal.png)](https://www.dhs.gov)  
+**Mission**: "Border security? **We're building the wall, folks!**"  
 
 ---  
 
