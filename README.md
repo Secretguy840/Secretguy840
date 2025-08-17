@@ -3,9 +3,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;DONALD+TRUMP+WELCOMES+YOU;THANKS+FOR+VISITING;">
 ***
 
+TODAY'S STATEMENT:                                                                                                                                       
+                    My fellow Americans,
+                    ***And now, I’ll do for the planets what I did to North Korea—time for some SPACE NUKES! (Just kidding… unless?)***
 
-<h3>Donald Trump </h3>
+Today, we make history—launching the United States Space Force! The stars belong to America, and we will dominate space like nobody else.
 
+China, Russia—they’re racing to control space. Not on my watch! We will be the best, the strongest, and the smartest—just like always.
+
+Space Force heroes will protect our satellites, defend our nation, and ensure no one threatens us from above. We’re America—we don’t come in second!
+
+Some say, “Space Force? Sounds like science fiction!” Wrong! Under Trump, science fiction becomes science FACT!
+
+We’ll have the coolest uniforms, the best technology—maybe even Space Marines! (I’ll ask the generals.)
+
+So to our enemies: Be warned. To our allies: We’ve got your back. And to space itself—get ready, because America is coming!
+
+And now, I’ll do for the planets what I did to North Korea—time for some SPACE NUKES! (Just kidding… unless?)
+
+USA! USA!**
       
   <h1 align="center">Flex Zone</h1>
   # Welcome to MY GitHub Profile! 🚀
