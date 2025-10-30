@@ -253,10 +253,10 @@ Play Fast!
    
 ## 💫 About Me:
 
-🔥 About 박혜진
-🚀 Gamer Tag: 박혜진
-💻 Platforms: PC, PlayStation, Xbox, Nintendo Switch
-📺Binary name:01010011 01101000 01101001 01110110 01100001 01101110 01110011 01101000 00100000 01001011 01101000 01100001 01101110 01100100 01100101 01101100 01110111 01100001 01101100
+<hr>🔥 About 박혜진</hr>
+<hr>🚀 Gamer Tag: 박혜진</hr>
+<hr>💻 Platforms: PC, PlayStation, Xbox, Nintendo Switch</hr>
+<hr>📺Binary name:01010011 01101000 01101001 01110110 01100001 01101110 01110011 01101000 00100000 01001011 01101000 01100001 01101110 01100100 01100101 01101100 01110111 01100001 01101100</hr>
 
 🏎️ Favorite Games
 Game	Genre	High Score/Best Time
