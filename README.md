@@ -1,6 +1,6 @@
 ## Hi there 👋<h2>👋 - Hey My Friends</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;Noone+WELCOMES+YOU;THANKS+FOR+VISITING;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=500&duration=1000&pause=1000&color=20F77B&width=9500&height=1000&lines=HEY+GUYS;Noone+WELCOMES+YOU;I+Have+A+New+INSTAGRAM+Account:Hit+Follow+And+Support+Me;THANKS+FOR+VISITING;">
 ***
 
   <details>
